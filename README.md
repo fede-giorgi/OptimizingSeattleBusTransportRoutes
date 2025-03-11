@@ -1,4 +1,4 @@
-# 381 Group Project
+# Math 381 Group Project
 
 ## Overview
 This repository contains the code and documentation for the Math 381 Group Project. The goal of this project is to optimize Seattle's bus transport routes using Minimum Spanning Graphs.
@@ -9,7 +9,7 @@ Urban congestion presents economic, environmental, and social challenges. This p
 ## Images
 Here are some key images from the project:
 
-### Optimized Transit Network
+### Initial Transit Network
 ![Optimized Transit Network](/images/heatmap_final.png)
 
 ### Example Bus Route
